@@ -1,0 +1,1 @@
+{ "type": "array", "items": {"type": "object", "required": ["id", "insight", "prediction", "counterevidence"], "properties": {"id": {"type": "string"}, "insight": {"type": "string"}, "prediction": {"type": "string"}, "counterevidence": {"type": "string"}} } }

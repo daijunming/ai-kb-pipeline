@@ -1,0 +1,20 @@
+models:
+  default: gpt-4.1-mini
+temperature: 0.2
+retry:
+  max_attempts: 3
+  backoff_seconds: 2
+concurrency: 2
+cache:
+  enabled: true
+  dir: data/runs
+stages:
+  - segment
+  - evidence
+  - concepts
+  - claims
+  - assumptions
+  - tensions
+  - insights
+  - deliverable
+  - qa

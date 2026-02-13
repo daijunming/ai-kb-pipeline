@@ -1,0 +1,15 @@
+{
+  "run_dir": "data/runs/2026-02-13_034749",
+  "stages": {
+    "segment": "segments.json",
+    "evidence": "evidence.json",
+    "concepts": "concepts.json",
+    "claims": "claims.json",
+    "assumptions": "assumptions.json",
+    "tensions": "tensions.json",
+    "insights": "insights.json",
+    "deliverable": "deliverable.md",
+    "qa": "qa_report.json"
+  },
+  "timestamp": "2026-02-13T03:47:49.368262"
+}

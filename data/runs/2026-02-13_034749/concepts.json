@@ -1,0 +1,10 @@
+{
+  "stage": "concepts",
+  "payload": {
+    "stage": "evidence",
+    "payload": {
+      "stage": "segment",
+      "payload": null
+    }
+  }
+}

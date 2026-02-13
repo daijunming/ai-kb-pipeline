@@ -1,0 +1,25 @@
+{
+  "stage": "deliverable",
+  "payload": {
+    "stage": "insights",
+    "payload": {
+      "stage": "tensions",
+      "payload": {
+        "stage": "assumptions",
+        "payload": {
+          "stage": "claims",
+          "payload": {
+            "stage": "concepts",
+            "payload": {
+              "stage": "evidence",
+              "payload": {
+                "stage": "segment",
+                "payload": null
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
