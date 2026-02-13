@@ -1,0 +1,9 @@
+sqlite:
+  path: data/kb.sqlite3
+fulltext:
+  backend: sqlite_fts
+  enabled: true
+vector:
+  backend: chroma
+  enabled: false
+  path: data/vector

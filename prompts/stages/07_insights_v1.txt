@@ -1,0 +1,3 @@
+# 07_insights_v1
+
+Define objective, constraints, and output schema mapping.

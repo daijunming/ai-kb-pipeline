@@ -1,0 +1,1 @@
+{ "type": "array", "items": {"type": "object", "required": ["id", "text", "evidence_ids"], "properties": {"id": {"type": "string"}, "text": {"type": "string"}, "evidence_ids": {"type": "array", "items": {"type": "string"}}} } }

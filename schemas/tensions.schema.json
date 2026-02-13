@@ -1,0 +1,1 @@
+{ "type": "array", "items": {"type": "object", "required": ["id", "a", "b"], "properties": {"id": {"type": "string"}, "a": {"type": "string"}, "b": {"type": "string"}} } }

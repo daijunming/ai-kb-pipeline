@@ -1,0 +1,11 @@
+prompts:
+  - id: segment
+    version: v1
+    stage: segment
+    input_schema: schemas/segments.schema.json
+    output_schema: schemas/segments.schema.json
+  - id: evidence
+    version: v1
+    stage: evidence
+    input_schema: schemas/segments.schema.json
+    output_schema: schemas/evidence.schema.json

@@ -1,0 +1,10 @@
+fixtures_path: data/fixtures
+metrics:
+  evidence_coverage: true
+  missing_evidence_annotation_rate: true
+  concept_consistency: true
+  insight_prediction_counterevidence_ratio: true
+  deliverable_actionability: true
+thresholds:
+  evidence_coverage: 0.85
+  concept_consistency: 0.9

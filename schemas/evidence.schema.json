@@ -1,0 +1,1 @@
+{ "type": "array", "items": {"type": "object", "required": ["id", "segment_id", "quote"], "properties": {"id": {"type": "string"}, "segment_id": {"type": "string"}, "quote": {"type": "string"}} } }
